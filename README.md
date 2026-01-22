@@ -21,9 +21,7 @@ The system is evaluated on metrics such as accuracy, precision, recall, and F1-s
 
 This project is based on the Fake News Challenge dataset from Kaggle
 
-Final thesis draft
 
-.
 
 Features
 
